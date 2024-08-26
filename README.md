@@ -6,6 +6,4 @@ Use with caution, nothing is tested so could break existing projects.
 
 Using Unity 2021 or newer should work.
 
-
-The package includes main roadpoints that will be procedurally connected with a road.
-The road is influenced by the settings.
+The package includes main roadpoints that will be procedurally connected with a road. The road is influenced by the settings.
