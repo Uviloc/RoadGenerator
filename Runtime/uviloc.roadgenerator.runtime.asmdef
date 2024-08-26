@@ -1,8 +1,8 @@
 {
-    "name": "uviloc.roadgenerator.editor",
+    "name": "uviloc.roadgenerator.runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:966087f6ab7b0514cbae92ced8a5a7bc"
+        "GUID:78bd2ddd6e276394a9615c203e574844"
     ],
     "includePlatforms": [
         "Editor",
@@ -14,6 +14,12 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "12.1.0",
+            "define": "HDRP_12_1_0_OR_NEWER"
+        }
+    ],
     "noEngineReferences": false
 }
