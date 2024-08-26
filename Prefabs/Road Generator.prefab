@@ -539,19 +539,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 5000635646588985361}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7167895d654c2024fb553470126bb8e5, type: 3}
+  m_Script: {fileID: 11500000, guid: da67747a6451c414a98b855912d13092, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointIndicator: {fileID: 2149768521165336695, guid: e47ac8c7b032e904f9f6f37c8223f392,
-    type: 3}
-  mainPointIndicator: {fileID: 2149768521165336695, guid: 9cf8bf9e4a792f44e892ca19d9a18ff0,
-    type: 3}
-  mainPoints:
-  - {fileID: 5000635647487622904}
-  - {fileID: 5000635645976550530}
-  - {fileID: 5000635647541215557}
-  - {fileID: 5000635646500993321}
-  - {fileID: 5000635646944012064}
+  pointIndicator: {fileID: 0}
+  mainPointIndicator: {fileID: 0}
+  mainPoints: []
   minSpaceAroundEachConnectionPoint: 7
   distanceBetweenCorners: 7.5
   maxCornerMovement: 5.5
@@ -561,6 +554,7 @@ MonoBehaviour:
   maxAmountOfBranches: 2
   branchingChance: 20
   amountOfBranches: 0
+  maxBranchTravelDistance: 30
   allCorners: []
 --- !u!1 &5000635646650507376
 GameObject:
