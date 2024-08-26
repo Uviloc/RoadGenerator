@@ -1,6 +1,6 @@
 {
   "name": "com.uviloc.roadgenerator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Road Generator",
   "description": "A simple way to create roads with a clean UI",
   "unity": "2021.3",
