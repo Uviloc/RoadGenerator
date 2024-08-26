@@ -1,5 +1,8 @@
 This project is for my first Unity Package.
+
 Do not expect everything to work.
+
+Use with caution, everything is untested so could break existing projects.
 
 Using Unity 2021 or newer should work.
 
