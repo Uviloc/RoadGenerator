@@ -1,0 +1,24 @@
+{
+  "name": "com.uviloc.roadgenerator",
+  "version": "1.0.0",
+  "displayName": "Road Generator",
+  "description": "A simple way to create roads with a clean UI",
+  "unity": "2021.3",
+  "unityRelease": "18f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "12.1.10"
+  },
+  "keywords": [
+    "procedural",
+    "road",
+    "generator",
+    "tool"
+  ],
+  "author": {
+    "name": "IsaacBeek",
+    "email": "Isaac.van.Beek.1@mail.com"
+  }
+}
